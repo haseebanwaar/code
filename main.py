@@ -14,3 +14,7 @@ def call_api(url):
     """
     r = requests.get(url)
     return True if r.status_code == 200 else False
+
+def call_name():
+    return True
+
