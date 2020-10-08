@@ -18,3 +18,9 @@ def call_api(url):
 def call_name():
     return True
 
+def call_age():
+    return True
+
+def call_age():
+    return True
+
